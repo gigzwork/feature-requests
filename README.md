@@ -1,13 +1,13 @@
 # 💡 gigz.work – Feature Requests & Voting
 
-Welcome to the official GIGZ.work community-driven feature board!  
+Welcome to the official gigz.work community-driven feature board!  
 Here you can **suggest new features**, **upvote ideas**, and help shape the future of our platform.
 
 ---
 
 ## 🚀 What is this?
 
-This is the place where the GIGZ.work team collects feedback and feature ideas from our users, developers, and community.  
+This is the place where the gigz.work team collects feedback and feature ideas from our users, developers, and community.  
 Every issue represents a **feature suggestion** or improvement. You can vote on ideas using GitHub's built-in reaction system (👍 👎 ❤️ etc.).
 
 ---
