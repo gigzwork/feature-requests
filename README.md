@@ -1,4 +1,4 @@
-# 💡 gigz.work – Feature Requests & Voting
+# 💡gigz.work – Feature Requests & Voting
 
 Welcome to the official gigz.work community-driven feature board!  
 Here you can **suggest new features**, **upvote ideas**, and help shape the future of our platform.
